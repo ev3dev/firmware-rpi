@@ -1,0 +1,15 @@
+Source: firmware-rpi
+Priority: optional
+Maintainer: David Lechner <david@lechnology.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Section: embedded
+Homepage: http://www.ev3dev.org
+Vcs-Git: git://github.com/ev3dev/firmware-rpi.git
+Vcs-Browser: https://github.com/ev3dev/firmware-rpi
+
+Package: firmware-rpi
+Architecture: armhf
+Depends: ${misc:Depends}
+Description: Firmware for Raspberry Pi 3 Wi-Fi.
+ This package is only useful for Raspberry Pi 3.

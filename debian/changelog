@@ -1,0 +1,5 @@
+firmware-rpi (1) stable; urgency=medium
+
+  * Initial release.
+
+ -- David Lechner <david@lechnology.com>  Sun, 26 Jun 2016 16:29:56 -0500
