@@ -1,3 +1,10 @@
+firmware-rpi (2) stable; urgency=medium
+
+  * More official license
+  * Add RPi3 Bluetooth firmware
+
+ -- David Lechner <david@lechnology.com>  Sun, 26 Jun 2016 18:57:52 -0500
+
 firmware-rpi (1) stable; urgency=medium
 
   * Initial release.
